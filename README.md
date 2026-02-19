@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**clearchaos3/clearchaos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ryan Lee
 
-Here are some ideas to get you started:
+**Developer & Solo Founder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things people actually use. Shipping fast, iterating faster.
+
+[![GitHub](https://img.shields.io/badge/GitHub-clearchaos3-181717?style=flat-square&logo=github)](https://github.com/clearchaos3)
+
+</div>
+
+---
+
+### What I'm Building
+
+🎯 **[MoveNumbers](https://movenumbers.com)** — Real cost-of-living comparisons with actual dollar amounts, not abstract indices. Know before you go.
+
+🎮 **8BitQuiz** — Retro gaming trivia with 500 fact-checked questions. Challenge friends, compete on weekly leaderboards.
+
+🃏 **PSA Sniper** — Deal-finding tool for PSA-graded Pokémon cards. Real-time eBay auction monitoring with price analysis.
+
+### Stack
+
+```
+TypeScript · React · Next.js · Node.js · Swift · Python
+```
+
+### Philosophy
+
+Ship it. Get feedback. Fix it. Repeat. Perfect is the enemy of live.
+
