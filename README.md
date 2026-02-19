@@ -18,7 +18,7 @@ Building things people actually use. Shipping fast, iterating faster.
 
 🃏 **[PSA Sniper](https://psasniper.com)** — Deal-finding tool for PSA-graded Pokémon cards. Real-time eBay auction monitoring with price analysis.
 
-🎮 **[8BitQuiz](https://8bitquiz.com)** — Retro gaming trivia with 500 fact-checked questions. Challenge friends, compete on weekly leaderboards.
+🎮 **8BitQuiz** — Retro gaming trivia with 500 fact-checked questions. Challenge friends, compete on weekly leaderboards.
 
 🎸 **[Modded Mod Shop](https://moddedmodshop.com)** — A better Gibson mod shop experience, because the original one needed help.
 
