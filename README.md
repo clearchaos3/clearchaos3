@@ -1,37 +1,74 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Solo+Founder;Shipping+Products+That+Make+Money" alt="Typing SVG" />
+
 # Ryan Lee
 
-**Developer & Solo Founder**
+**Developer & Solo Founder** · St. Louis, MO
 
-Building things people actually use. Shipping fast, iterating faster.
+I build, ship, and monetize web products — solo. No team, no funding, no excuses.
 
-[![GitHub](https://img.shields.io/badge/GitHub-clearchaos3-181717?style=flat-square&logo=github)](https://github.com/clearchaos3)
+Every project below is live, deployed, and serving real users.
+
+<a href="https://movenumbers.com"><img src="https://img.shields.io/badge/MoveNumbers-live-10B981?style=for-the-badge" /></a>
+<a href="https://taxtakehome.com"><img src="https://img.shields.io/badge/TaxTakeHome-live-10B981?style=for-the-badge" /></a>
+<a href="https://psasniper.com"><img src="https://img.shields.io/badge/PSA_Sniper-live-10B981?style=for-the-badge" /></a>
+<a href="https://8bitquiz.com"><img src="https://img.shields.io/badge/8BitQuiz-live-10B981?style=for-the-badge" /></a>
+<a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-8B0000?style=for-the-badge" /></a>
 
 </div>
 
 ---
 
-### What I'm Building
+### 🚀 What I've Built
 
-🎯 **[MoveNumbers](https://movenumbers.com)** — Real cost-of-living comparisons with actual dollar amounts, not abstract indices. SaaS for real estate agents with branded client portals.
+| Project | What It Does | Tech | Scale |
+|---------|-------------|------|-------|
+| **[MoveNumbers](https://movenumbers.com)** | Cost-of-living comparison platform with SaaS layer for real estate agents — branded client portals, activity tracking, Stripe billing | Next.js, TypeScript, Supabase, Stripe, Vercel | 19,000+ cities, 2,800+ SEO pages |
+| **[TaxTakeHome](https://taxtakehome.com)** | Take-home pay calculator — federal + all 50 states + FICA. Programmatic SEO across every salary × state combination | Next.js, TypeScript, Vercel | 2,800+ pages, 51 state tax engines |
+| **[PSA Sniper](https://psasniper.com)** | Real-time deal finder for PSA-graded Pokémon cards. eBay affiliate revenue engine with price analysis and watchlists | React, Node.js, TypeScript, Railway | Live eBay API integration |
+| **[8BitQuiz](https://8bitquiz.com)** | Retro gaming trivia with social features — challenge friends, shareable score cards, weekly competitions | React, TypeScript, Railway | 500 fact-checked questions |
+| **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
 
-💰 **[TaxTakeHome](https://taxtakehome.com)** — Take-home pay calculator for every state. See your actual salary after federal, state, and FICA taxes.
+### 🧠 How I Think
 
-🃏 **[PSA Sniper](https://psasniper.com)** — Deal-finding tool for PSA-graded Pokémon cards. Real-time eBay auction monitoring with price analysis.
+- **Revenue-first** — Every project has a monetization strategy before the first commit
+- **Programmatic SEO** — I build sites that generate thousands of indexable pages from structured data
+- **Ship daily** — I'd rather ship something imperfect today than something perfect never
+- **Full-stack, full-ownership** — Design, frontend, backend, infra, DNS, payments, SEO — I do all of it
 
-🎮 **[8BitQuiz](https://8bitquiz.com)** — Retro gaming trivia with 500 fact-checked questions. Challenge friends, compete on weekly leaderboards.
-
-🗺️ **[Michigan Is Not Real](https://michiganisnotreal.com)** — Exposing the largest geographical conspiracy in American history. The evidence is overwhelming.
-
-🎸 **[Modded Mod Shop](https://moddedmodshop.com)** — A better Gibson mod shop experience, because the original one needed help.
-
-### Stack
+### 🔧 Stack
 
 ```
-TypeScript · React · Next.js · Node.js · Swift · Python
+Languages    TypeScript · JavaScript · Python · Swift · SQL
+Frontend     React · Next.js · Tailwind CSS
+Backend      Node.js · Supabase · PostgreSQL
+Payments     Stripe (Checkout, Billing Portal, Webhooks)
+Infra        Vercel · Railway · AWS Lightsail · Cloudflare
+Auth         Supabase Auth (RLS, server/client patterns)
+SEO          Programmatic pages · Structured data · OG images · Sitemaps
 ```
 
-### Philosophy
+### 📈 By The Numbers
 
-Ship it. Get feedback. Fix it. Repeat. Perfect is the enemy of live.
+- **5 products** live and deployed
+- **22,000+** programmatic SEO pages across sites
+- **19,000+** US cities with cost-of-living data
+- **50 states** + DC with full tax engines
+- **$0 in funding** — bootstrapped everything
+
+### 💡 Philosophy
+
+> Ship it. Get feedback. Fix it. Repeat. Perfect is the enemy of live.
+
+I don't build apps that sit in app stores hoping for downloads. I build websites that rank on Google and make money from day one. The [levelsio](https://twitter.com/levelsio) playbook.
+
+---
+
+<div align="center">
+
+**Currently building the next thing.** Always.
+
+📬 Reach me here on GitHub
+
+</div>
