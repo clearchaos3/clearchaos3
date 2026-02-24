@@ -14,7 +14,7 @@ Every project below is live, deployed, and serving real users.
 <a href="https://taxtakehome.com"><img src="https://img.shields.io/badge/TaxTakeHome-live-10B981?style=for-the-badge" /></a>
 <a href="https://psasniper.com"><img src="https://img.shields.io/badge/PSA_Sniper-live-10B981?style=for-the-badge" /></a>
 <a href="https://8bitquiz.com"><img src="https://img.shields.io/badge/8BitQuiz-live-10B981?style=for-the-badge" /></a>
-<a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-8B0000?style=for-the-badge" /></a>
+<a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-10B981?style=for-the-badge" /></a>
 
 </div>
 
