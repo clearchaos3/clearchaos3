@@ -13,7 +13,7 @@ Every project below is live, deployed, and serving real users.
 <a href="https://movenumbers.com"><img src="https://img.shields.io/badge/MoveNumbers-live-10B981?style=for-the-badge" /></a>
 <a href="https://taxtakehome.com"><img src="https://img.shields.io/badge/TaxTakeHome-live-10B981?style=for-the-badge" /></a>
 <a href="https://psasniper.com"><img src="https://img.shields.io/badge/PSA_Sniper-live-10B981?style=for-the-badge" /></a>
-<a href="https://8bitquiz.com"><img src="https://img.shields.io/badge/8BitQuiz-live-10B981?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/8BitQuiz-built-555555?style=for-the-badge" />
 <a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-10B981?style=for-the-badge" /></a>
 
 </div>
@@ -27,7 +27,7 @@ Every project below is live, deployed, and serving real users.
 | **[MoveNumbers](https://movenumbers.com)** | Cost-of-living comparison platform with SaaS layer for real estate agents — branded client portals, activity tracking, Stripe billing | Next.js, TypeScript, Supabase, Stripe, Vercel | 19,000+ cities, 2,800+ SEO pages |
 | **[TaxTakeHome](https://taxtakehome.com)** | Take-home pay calculator — federal + all 50 states + FICA. Programmatic SEO across every salary × state combination | Next.js, TypeScript, Vercel | 2,800+ pages, 51 state tax engines |
 | **[PSA Sniper](https://psasniper.com)** | Real-time deal finder for PSA-graded Pokémon cards. eBay affiliate revenue engine with price analysis and watchlists | React, Node.js, TypeScript, Railway | Live eBay API integration |
-| **[8BitQuiz](https://8bitquiz.com)** | Retro gaming trivia with social features — challenge friends, shareable score cards, weekly competitions | React, TypeScript, Railway | 500 fact-checked questions |
+| **8BitQuiz** | Retro gaming trivia with social features — challenge friends, shareable score cards, weekly competitions | React, TypeScript, Railway | 500 fact-checked questions |
 | **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
 
 ### 🧠 How I Think
