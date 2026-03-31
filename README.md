@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Solo+Founder;Shipping+Products+That+Make+Money" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Solo+Builder;Shipping+Products" alt="Typing SVG" />
 
 # Ryan Lee
 
 **Developer & Solo Founder** · St. Louis, MO
 
-I build, ship, and monetize web products — solo. No team, no funding, no excuses.
+I build and ship web products solo. No team, no funding, no excuses.
 
 Every project below is live, deployed, and serving real users.
 
@@ -27,17 +27,16 @@ Every project below is live, deployed, and serving real users.
 |---------|-------------|------|-------|
 | **[MoveNumbers](https://movenumbers.com)** | Cost-of-living comparison platform with SaaS layer for real estate agents — branded client portals, activity tracking, Stripe billing | Next.js, TypeScript, Supabase, Stripe, Vercel | 19,000+ cities, 2,800+ SEO pages |
 | **[TaxTakeHome](https://taxtakehome.com)** | Take-home pay calculator — federal + all 50 states + FICA. Programmatic SEO across every salary × state combination | Next.js, TypeScript, Vercel | 2,800+ pages, 51 state tax engines |
-| **[PSA Sniper](https://psasniper.com)** | Real-time deal finder for PSA-graded Pokémon cards. eBay affiliate revenue engine with price analysis and watchlists | React, Node.js, TypeScript, Railway | Live eBay API integration |
+| **[PSA Sniper](https://psasniper.com)** | Real-time deal finder for PSA-graded Pokémon cards. Price analysis and watchlists | React, Node.js, TypeScript, Railway | Live eBay API integration |
 | **[Noobik\'s Cube](https://noobikscube.com)** | Scan your Rubik\'s cube with your phone camera and get step-by-step solving instructions | Next.js, TypeScript, Tailwind, Vercel | Real-time color detection |
 | **[STLWTF](https://stlwtf.com)** | Missouri situational awareness dashboard — live traffic cameras, police scanner, weather, crashes, news, air traffic. 391 MoDOT cameras, 19 real-time data sources | Vanilla JS, Vercel Serverless, Cloudflare Workers | 391 live cameras, statewide coverage |
 | **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
 
 ### 🧠 How I Think
 
-- **Revenue-first** — Every project has a monetization strategy before the first commit
 - **Programmatic SEO** — I build sites that generate thousands of indexable pages from structured data
-- **Ship daily** — I\'d rather ship something imperfect today than something perfect never
-- **Full-stack, full-ownership** — Design, frontend, backend, infra, DNS, payments, SEO — I do all of it
+- **Ship daily** — I'd rather ship something imperfect today than something perfect never
+- **Full-stack, full-ownership** — Design, frontend, backend, infra, DNS, SEO — I do all of it
 
 ### 🔧 Stack
 
@@ -45,7 +44,6 @@ Every project below is live, deployed, and serving real users.
 Languages    TypeScript · JavaScript · Python · Swift · SQL
 Frontend     React · Next.js · Tailwind CSS
 Backend      Node.js · Supabase · PostgreSQL
-Payments     Stripe (Checkout, Billing Portal, Webhooks)
 Infra        Vercel · Railway · AWS Lightsail · Cloudflare
 Auth         Supabase Auth (RLS, server/client patterns)
 SEO          Programmatic pages · Structured data · OG images · Sitemaps
@@ -64,7 +62,7 @@ SEO          Programmatic pages · Structured data · OG images · Sitemaps
 
 > Ship it. Get feedback. Fix it. Repeat. Perfect is the enemy of live.
 
-I don\'t build apps that sit in app stores hoping for downloads. I build websites that rank on Google and make money from day one. The [levelsio](https://twitter.com/levelsio) playbook.
+I don't build apps that sit in app stores hoping for downloads. I build websites that rank on Google and serve real users.
 
 ---
 
