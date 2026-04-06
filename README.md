@@ -12,7 +12,6 @@ Every project below is live, deployed, and serving real users.
 
 <a href="https://movenumbers.com"><img src="https://img.shields.io/badge/MoveNumbers-live-10B981?style=for-the-badge" /></a>
 <a href="https://taxtakehome.com"><img src="https://img.shields.io/badge/TaxTakeHome-live-10B981?style=for-the-badge" /></a>
-<a href="https://psasniper.com"><img src="https://img.shields.io/badge/PSA_Sniper-live-10B981?style=for-the-badge" /></a>
 <a href="https://noobikscube.com"><img src="https://img.shields.io/badge/Noobik\'s_Cube-live-10B981?style=for-the-badge" /></a>
 <a href="https://stlwtf.com"><img src="https://img.shields.io/badge/STLWTF-live-10B981?style=for-the-badge" /></a>
 <a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-10B981?style=for-the-badge" /></a>
@@ -27,7 +26,6 @@ Every project below is live, deployed, and serving real users.
 |---------|-------------|------|-------|
 | **[MoveNumbers](https://movenumbers.com)** | Cost-of-living comparison platform with SaaS layer for real estate agents — branded client portals, activity tracking, Stripe billing | Next.js, TypeScript, Supabase, Stripe, Vercel | 19,000+ cities, 2,800+ SEO pages |
 | **[TaxTakeHome](https://taxtakehome.com)** | Take-home pay calculator — federal + all 50 states + FICA. Programmatic SEO across every salary × state combination | Next.js, TypeScript, Vercel | 2,800+ pages, 51 state tax engines |
-| **[PSA Sniper](https://psasniper.com)** | Real-time deal finder for PSA-graded Pokémon cards. Price analysis and watchlists | React, Node.js, TypeScript, Railway | Live eBay API integration |
 | **[Noobik\'s Cube](https://noobikscube.com)** | Scan your Rubik\'s cube with your phone camera and get step-by-step solving instructions | Next.js, TypeScript, Tailwind, Vercel | Real-time color detection |
 | **[STLWTF](https://stlwtf.com)** | Missouri situational awareness dashboard — live traffic cameras, police scanner, weather, crashes, news, air traffic. 391 MoDOT cameras, 19 real-time data sources | Vanilla JS, Vercel Serverless, Cloudflare Workers | 391 live cameras, statewide coverage |
 | **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
@@ -51,7 +49,7 @@ SEO          Programmatic pages · Structured data · OG images · Sitemaps
 
 ### 📈 By The Numbers
 
-- **6 products** live and deployed
+- **5 products** live and deployed
 - **22,000+** programmatic SEO pages across sites
 - **19,000+** US cities with cost-of-living data
 - **391** live MoDOT traffic cameras streamed
