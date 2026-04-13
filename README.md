@@ -14,6 +14,7 @@ Every project below is live, deployed, and serving real users.
 <a href="https://taxtakehome.com"><img src="https://img.shields.io/badge/TaxTakeHome-live-10B981?style=for-the-badge" /></a>
 <a href="https://noobikscube.com"><img src="https://img.shields.io/badge/Noobik\'s_Cube-live-10B981?style=for-the-badge" /></a>
 <a href="https://stlwtf.com"><img src="https://img.shields.io/badge/STLWTF-live-10B981?style=for-the-badge" /></a>
+<a href="https://localnewshero.com"><img src="https://img.shields.io/badge/Local_News_Hero-live-10B981?style=for-the-badge" /></a>
 <a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-10B981?style=for-the-badge" /></a>
 
 </div>
@@ -28,6 +29,7 @@ Every project below is live, deployed, and serving real users.
 | **[TaxTakeHome](https://taxtakehome.com)** | Take-home pay calculator — federal + all 50 states + FICA. Programmatic SEO across every salary × state combination | Next.js, TypeScript, Vercel | 2,800+ pages, 51 state tax engines |
 | **[Noobik\'s Cube](https://noobikscube.com)** | Scan your Rubik\'s cube with your phone camera and get step-by-step solving instructions | Next.js, TypeScript, Tailwind, Vercel | Real-time color detection |
 | **[STLWTF](https://stlwtf.com)** | Missouri situational awareness dashboard — live traffic cameras, police scanner, weather, crashes, news, air traffic. 391 MoDOT cameras, 19 real-time data sources | Vanilla JS, Vercel Serverless, Cloudflare Workers | 391 live cameras, statewide coverage |
+| **[Local News Hero](https://localnewshero.com)** | Drive a news van around your REAL city in photorealistic 3D. Chase breaking stories, go live on scene, beat rival stations. Vibe Jam 2026 entry | Three.js, TypeScript, Google 3D Tiles, Upstash Redis, Vercel | Works worldwide, global leaderboard |
 | **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
 
 ### 🧠 How I Think
@@ -49,7 +51,7 @@ SEO          Programmatic pages · Structured data · OG images · Sitemaps
 
 ### 📈 By The Numbers
 
-- **5 products** live and deployed
+- **6 products** live and deployed
 - **22,000+** programmatic SEO pages across sites
 - **19,000+** US cities with cost-of-living data
 - **391** live MoDOT traffic cameras streamed
@@ -71,3 +73,4 @@ I don't build apps that sit in app stores hoping for downloads. I build websites
 📬 Reach me here on GitHub
 
 </div>
+
