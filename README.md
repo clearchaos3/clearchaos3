@@ -16,6 +16,7 @@ Every project below is live, deployed, and serving real users.
 <a href="https://stlwtf.com"><img src="https://img.shields.io/badge/STLWTF-live-10B981?style=for-the-badge" /></a>
 <a href="https://localnewshero.com"><img src="https://img.shields.io/badge/Local_News_Hero-live-10B981?style=for-the-badge" /></a>
 <a href="https://michiganisnotreal.com"><img src="https://img.shields.io/badge/Michigan_Is_Not_Real-live-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/clearchaos3/chop-shop"><img src="https://img.shields.io/badge/Chop_Shop-native_macOS-10B981?style=for-the-badge" /></a>
 
 </div>
 
@@ -31,6 +32,7 @@ Every project below is live, deployed, and serving real users.
 | **[STLWTF](https://stlwtf.com)** | Missouri situational awareness dashboard — live traffic cameras, police scanner, weather, crashes, news, air traffic. 391 MoDOT cameras, 19 real-time data sources | Vanilla JS, Vercel Serverless, Cloudflare Workers | 391 live cameras, statewide coverage |
 | **[Local News Hero](https://localnewshero.com)** | Drive a news van around your REAL city in photorealistic 3D. Chase breaking stories, go live on scene, beat rival stations. Vibe Jam 2026 entry | Three.js, TypeScript, Google 3D Tiles, Upstash Redis, Vercel | Works worldwide, global leaderboard |
 | **[Michigan Is Not Real](https://michiganisnotreal.com)** | Satirical conspiracy site. Built in one night. Went viral. | Next.js, Tailwind, Vercel | Pure entertainment |
+| **[Chop Shop](https://github.com/clearchaos3/chop-shop)** | Native macOS mashup IDE for Midi Fighter 3D/64 controllers. Chops any song into 1/8-note finger-drum pads by stem family (drums/bass/vocals/fx) with smart per-family slicing, beat-quantized pad editor, hardware LED light-show builder with drag-to-paint + image-to-pixel-art, Ableton `.als` export | Swift, SwiftUI, Core Audio, AVFoundation, CoreMIDI, Demucs | 64 pads live, 128-color LED control, full mashup pipeline |
 
 ### 🧠 How I Think
 
@@ -42,8 +44,9 @@ Every project below is live, deployed, and serving real users.
 
 ```
 Languages    TypeScript · JavaScript · Python · Swift · SQL
-Frontend     React · Next.js · Tailwind CSS
+Frontend     React · Next.js · Tailwind CSS · SwiftUI
 Backend      Node.js · Supabase · PostgreSQL
+Native       Swift · Core Audio · AVFoundation · CoreMIDI
 Infra        Vercel · Railway · AWS Lightsail · Cloudflare
 Auth         Supabase Auth (RLS, server/client patterns)
 SEO          Programmatic pages · Structured data · OG images · Sitemaps
@@ -51,7 +54,7 @@ SEO          Programmatic pages · Structured data · OG images · Sitemaps
 
 ### 📈 By The Numbers
 
-- **6 products** live and deployed
+- **7 products** live and deployed (6 web + 1 native macOS)
 - **22,000+** programmatic SEO pages across sites
 - **19,000+** US cities with cost-of-living data
 - **391** live MoDOT traffic cameras streamed
