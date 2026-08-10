@@ -20,6 +20,7 @@ Every project below is real and shipped — live sites serving users, native app
 <a href="https://github.com/clearchaos3/flipside"><img src="https://img.shields.io/badge/Flipside-native_macOS-10B981?style=for-the-badge" /></a>
 <a href="https://github.com/clearchaos3/dl4-conductor"><img src="https://img.shields.io/badge/DL4_Conductor-native_macOS-10B981?style=for-the-badge" /></a>
 <a href="https://github.com/clearchaos3/mf3d-cockpit"><img src="https://img.shields.io/badge/MF3D_Cockpit-native_macOS-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/clearchaos3/chop-shop"><img src="https://img.shields.io/badge/Chop_Shop-native_macOS-10B981?style=for-the-badge" /></a>
 
 </div>
 
@@ -33,7 +34,7 @@ Every project below is real and shipped — live sites serving users, native app
 | **[Flipside](https://github.com/clearchaos3/flipside)** | Sampler/sequencer modeled on the classic 16-pad hardware-sampler workflow — chop samples and flip them into beats, driven by a Midi Fighter 64 + nanoKONTROL. 16 sequences × 8 banks, Chop mode, 16 Levels, Pad/Knob FX, Song mode | Swift, SwiftUI, AVAudioEngine, CoreMIDI | Full hardware-sampler workflow on a 64-pad grid |
 | **[DL4 Conductor](https://github.com/clearchaos3/dl4-conductor)** | Turns a Mac into the brain for Line 6 DL4 MkII pedals over USB-C MIDI — a tempo-locked delay conductor with LFO-swept feedback, a MIDI-learn grid controller for dual loopers, and a phone looper remote | Swift, CoreMIDI, USB MIDI | Drives 2 pedals + 64-pad grid, phone remote |
 | **[MF3D Cockpit](https://github.com/clearchaos3/mf3d-cockpit)** | Midi Fighter 3D arcade controller turned real-time mission control for parallel Claude Code sessions — 9 session pads with live status LEDs (thinking / waiting / done / failed), one-touch approvals, hold-to-talk dictation, self-learning tab mapping via the accessibility API, drag-drop web configurator. Spans two Macs over an ssh reverse tunnel | Hammerspoon (Lua), Swift, CoreMIDI, Python | 64 RGB pads · 4 banks · 2 machines |
-| **Chop Shop** | Mashup IDE for Midi Fighter 3D/64 controllers. Chops any song into 1/8-note finger-drum pads by stem family with smart per-family slicing, beat-quantized pad editor, LED light-show builder with drag-to-paint + image-to-pixel-art, Ableton `.als` export | Swift, SwiftUI, Core Audio, CoreMIDI, Demucs | 64 pads live, 128-color LED control |
+| **[Chop Shop](https://github.com/clearchaos3/chop-shop)** | Mashup IDE for Midi Fighter 3D/64 controllers. Chops any song into 1/8-note finger-drum pads by stem family with smart per-family slicing, beat-quantized pad editor, LED light-show builder with drag-to-paint + image-to-pixel-art, Ableton `.als` export | Swift, SwiftUI, Core Audio, CoreMIDI, Demucs | 64 pads live, 128-color LED control |
 
 ### 🌐 Web Products
 
@@ -87,6 +88,6 @@ I don't wait for gatekeepers. Websites rank on Google and serve real users; Mac 
 
 **Currently building the next thing.** Always.
 
-📬 Reach me here on GitHub
+📬 [ryanleestl@gmail.com](mailto:ryanleestl@gmail.com) · or open an issue on any repo
 
 </div>
